@@ -79,7 +79,7 @@ This project was built to practice core Python concepts:
 ## ✨ About
 
 Built by **Samy Sasikumar** as part of the **UW Teens Intro to Python** program.  
-9th Grade · Redmond High School (LWSD) · Redmond, WA
+High School Student · Redmond, WA
 
 🐙 [github.com/samysasikumar](https://github.com/samysasikumar)
 
