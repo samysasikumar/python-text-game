@@ -78,7 +78,7 @@ This project was built to practice core Python concepts:
 
 ## ✨ About
 
-Built by **Samy Sasikumar** as part of the **UW Teens Intro to Python** program.  
+Built by **Samy Sasikumar** as part of the **UW Youth & Teens Program Coding in Python**.  
 High School Student · Redmond, WA
 
 🐙 [github.com/samysasikumar](https://github.com/samysasikumar)
