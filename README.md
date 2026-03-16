@@ -78,4 +78,4 @@ python-text-game/
 
 ---
 
-*Built with 🐇 · UW Teens Python Program · 2024*
+*Built with 🐇 · UW Teens Python Program · 2026*
