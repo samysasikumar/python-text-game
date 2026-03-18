@@ -51,7 +51,7 @@ There are **6 possible endings** depending on the choices you make. Can you find
 
 ## What I Learned
 
-This project was built as part of the **UW Youth & Teens Coding in Python** program. Through building this game I practiced:
+This project was built as part of the **UW Youth & Teen — Coding in Python I** program. Through building this game I practiced:
 
 - Writing and calling functions (`def ask_yes_no`, `def ask_place`)
 - Using `while` loops for game flow and input validation
@@ -78,4 +78,4 @@ python-text-game/
 
 ---
 
-*Built with 🐇 · UW Teens Python Program · 2026*
+*Built with 🐇 · UW Youth & Teen — Coding in Python I · 2026*
